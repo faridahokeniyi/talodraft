@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/talodraft/static/css/main.29c4ccaf.css",
+    "main.js": "/talodraft/static/js/main.fb1c934e.js",
+    "static/js/787.d9258e51.chunk.js": "/talodraft/static/js/787.d9258e51.chunk.js",
+    "static/media/ClashDisplay.ttf": "/talodraft/static/media/ClashDisplay.e7f67b72cbf79f80c9c7.ttf",
+    "index.html": "/talodraft/index.html",
+    "main.29c4ccaf.css.map": "/talodraft/static/css/main.29c4ccaf.css.map",
+    "main.fb1c934e.js.map": "/talodraft/static/js/main.fb1c934e.js.map",
+    "787.d9258e51.chunk.js.map": "/talodraft/static/js/787.d9258e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c4ccaf.css",
+    "static/js/main.fb1c934e.js"
+  ]
+}
